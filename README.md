@@ -5,6 +5,6 @@ After many years working as a musician and music teacher I've decided to pursue 
 
 
 - 🔭 I’m currently working as an intern at Otus Solutions.
-- 🌱 I’m currently learning Angular amd NestJS.
+- 🌱 I’m currently learning Angular and NestJS.
 - 📫 How to reach me: rafa.gama.em7@gmail.com
 - ⚡ Fun fact: compulsive knitter.
